@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://urbanmorsell.com/sitemap.xml
